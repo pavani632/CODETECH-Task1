@@ -1,13 +1,17 @@
 Name:Bavirisetti Pavani Durga Bhavani
 
 Company:CODTECH IT Solutions
+
 ID:CT08DS4255
+
 Domain:Machine Learning
+
 Duration:July to August 2024
+
 Mentor:Neela Santhosh Kumar
 
 OVERVIEW OF THE PROJECT
-Project:Analysis on Movie Reviews 
+###Project:Sentimental Analysis on Movie Reviews 
 ![Screenshot (72)](https://github.com/user-attachments/assets/61998f88-a4d5-4f15-90ab-c9570409418b)
 
 Objective:
