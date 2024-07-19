@@ -1,11 +1,11 @@
-**Name:** BAVIRISETTI PAVANI DURGA BHAVANI
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT08DS4255
-**Domain:** Machine Learning
-**Duration:** July to August 2024
-**Mentor:** NEELA SANTOSH KUMAR
+**Name:** BAVIRISETTI PAVANI DURGA BHAVANI  
+**Company:** CODTECH IT SOLUTIONS  
+**ID:** CT08DS4255  
+**Domain:** Machine Learning  
+**Duration:** July to August 2024  
+**Mentor:** NEELA SANTOSH KUMAR  
 
-#### Overview Of The Project
+### Overview Of The Project
 ### Project:Sentimental Analysis on Movie Reviews 
 ![Screenshot (72)](https://github.com/user-attachments/assets/61998f88-a4d5-4f15-90ab-c9570409418b)
 
