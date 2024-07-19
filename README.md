@@ -35,13 +35,16 @@ Pad the encoded review sequence to match the input length of the model.
 - **Model Training:** Utilizes an embedding layer for word representation, followed by dense layers for classification.
 - **Visualization:** Plots the training and validation accuracy and loss over epochs.
 
-### Technologies Used:
+## Technologies Used
 - **Programming Language:** Python
-- **Libraries and Frameworks:** 
-TensorFlow/Keras: For building, training, and evaluating the sentiment analysis model.
-NumPy: For numerical operations.
-pandas: For data manipulation and analysis.
-Matplotlib: For plotting training and validation accuracy and loss values.
-IMDb Dataset: For training and testing the sentiment analysis model.
+- **Libraries and Frameworks:**
+  - TensorFlow/Keras for building and training the model
+  - NumPy and pandas for data manipulation
+  - Matplotlib for plotting accuracy and loss curves
+- **Dataset:** IMDb Movie Reviews dataset
+
+## Target Audience
+This project is intended for data scientists, NLP enthusiasts, and developers interested in sentiment analysis. It can also be useful for businesses and researchers analyzing public sentiment towards movies.
+
 
 
