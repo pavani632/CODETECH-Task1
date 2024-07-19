@@ -69,7 +69,7 @@ word_index["<UNUSED>"] = 3
 
 reverse_word_index = {v: k for k, v in word_index.items()}
 
-# Example review
+# Example review based on this the sentiment is generated.
 review = "This movie was very boring."
 
 # Preprocess the review
