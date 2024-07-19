@@ -29,6 +29,11 @@ Add a Dense layer with 1 unit and sigmoid activation for binary classification.
 -**Example Review Processing**:Encode a sample review text into word indices using the adjusted word index.
 Pad the encoded review sequence to match the input length of the model.
 -**Sentiment Prediction**:Use the trained model to predict the sentiment of the preprocessed review and print whether the sentiment is positive or negative.
+## Features
+- **Binary Classification:** The model classifies movie reviews into positive or negative categories.
+- **Text Preprocessing:** Handles data cleaning, tokenization, and padding of text sequences.
+- **Model Training:** Utilizes an embedding layer for word representation, followed by dense layers for classification.
+- **Visualization:** Plots the training and validation accuracy and loss over epochs.
 
 ###Technologies Used:
 -**Programming Language**:Python
