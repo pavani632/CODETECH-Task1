@@ -10,7 +10,7 @@
 ![Screenshot (72)](https://github.com/user-attachments/assets/61998f88-a4d5-4f15-90ab-c9570409418b)
 
 ## Objective:
-The main objective of this task is to develop a machine learning model that can accurately classify movie reviews as either positive or negative. This involves using natural language processing (NLP) techniques to analyze the sentiment expressed in the text of movie reviews.
+The main objective of this task is to develop a machine learning model that can accurately classify movie reviews as either positive or negative. This involves using natural language processing (NLP) techniques to analyze the sentiment expressed in the text of movie reviews.Done this by running the code in Google Colab
 
 ### Key Activities:
 - **Data Collection:** Load the IMDb Movie Reviews dataset using tensorflow.keras.datasets.imdb.
