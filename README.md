@@ -7,7 +7,7 @@ Mentor:Neela Santhosh Kumar
 
 OVERVIEW OF THE PROJECT
 Project:Analysis on Movie Reviews 
-![Screenshot (72)](https://github.com/user-attachments/assets/031cd3e3-f498-429f-9c32-d6676d6b2d93)
+![Screenshot (72)](https://github.com/user-attachments/assets/61998f88-a4d5-4f15-90ab-c9570409418b)
 
 Objective:
 The main objective of this task is to develop a machine learning model that can accurately classify movie reviews as either positive or negative. This involves using natural language processing (NLP) techniques to analyze the sentiment expressed in the text of movie reviews.
